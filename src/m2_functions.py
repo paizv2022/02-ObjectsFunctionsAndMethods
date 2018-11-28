@@ -88,7 +88,7 @@ def turtles(color, thickness):
     turtle2.backward(100)
 
     window.close_on_mouse_click()
-
+    
 ###############################################################################
 # TODO: 5.
 #   COMMIT-and-PUSH your work (after changing this TO-DO to DONE).
