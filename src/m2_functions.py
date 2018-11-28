@@ -27,7 +27,7 @@ def main():
     You write the tests per the _TODO_s below.
     """
     print(hypotenuse(3, 5))
-    turtles('red', 10)
+    #turtles('red', 10)
     turtles('blue', 20)
 
 ###############################################################################
@@ -41,6 +41,8 @@ def main():
 #
 # DONE: 3b.  In main, CALL your function and print the returned value,
 #   to test whether you defined the function correctly.
+#   You may call the function once, comment it out and then call it again with
+#   different values.
 #
 ###############################################################################
 
@@ -72,7 +74,7 @@ def hypotenuse(side1, side2):
 #
 #   You may name the function and its parameters whatever you wish.
 #
-# TODO: 4b.  In main, CALL your function at least TWICE (with different values
+# DONE: 4b.  In main, CALL your function at least TWICE (with different values
 #   for the arguments) to test whether you defined the function correctly.
 #
 ###############################################################################
@@ -90,7 +92,7 @@ def turtles(color, thickness):
     window.close_on_mouse_click()
 
 ###############################################################################
-# TODO: 5.
+# DONE: 5.
 #   COMMIT-and-PUSH your work (after changing this TO-DO to DONE).
 #
 #   As a reminder, here is how you should do so:
