@@ -27,8 +27,8 @@ def main():
     You write the tests per the _TODO_s below.
     """
     print(hypotenuse(3, 5))
-    #turtles('red', 10)
-    turtles('blue', 20)
+    turtles('red', 10)
+    #turtles('blue', 20)
 
 ###############################################################################
 # DONE: 3a.  Define a function immediately below this _TODO_.
